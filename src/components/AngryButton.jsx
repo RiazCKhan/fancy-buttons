@@ -12,7 +12,7 @@ const AngryButton = function (props){
   }
 
   return (
-    <button style={{ backgroundColor: `rgba(255, 0, 0, ${anger})` }} oncLick={handleClick} className="AngryButton">
+    <button style={{ backgroundColor: `rgba(255, 0, 0, ${anger})` }} onClick={handleClick} className="AngryButton">
       {anger < 1 && <span>Don't click me too much! </span>}
       {anger > 1 && <span>Rawr!</span>}
     </button>
