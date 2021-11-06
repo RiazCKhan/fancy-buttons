@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Fancy Button App w/React
+=======
+# Fancy Buttons App!
+>>>>>>> fe2aec051a52bdd442f846e966a4faae42936781
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
